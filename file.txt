@@ -1,0 +1,6 @@
+//make an arrayList for the course
+//read the CSV 
+//make an arrayList of object type student with the courses
+//every course has a way to store the student's registered in the course, store the student objects.
+//class Admin, options menu for the admin. have a method for every admin functionality
+//create a course: adds a new course to the ArrayList, public void createCourse(), pass an ArrayList of courses into the method, have the user enter the info, course temp = new Course(), CourseList.add(temp), easy!. the method can take a method
